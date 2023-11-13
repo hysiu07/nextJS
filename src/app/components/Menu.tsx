@@ -16,6 +16,7 @@ export default function Menu() {
 			<MenuLink href={'/about'} name={'About'} />
 			<MenuLink href={'/home'} name={'Home'} />
 			<MenuLink href={'/contact'} name={'Contact'} />
+			<MenuLink href={'/posts'} name={'Posts'} />
 		</div>
 	);
 }
